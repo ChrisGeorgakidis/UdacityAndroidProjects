@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="JavaOrder">"Just Java Παραγγελία για "</string>
+    <string name="addChocolate">"Προσθήκη Σοκολάτας; "</string>
+    <string name="addWhippedCream">"Προσθήκη σαντιγύ; "</string>
+    <string name="chocolate">Σοκολάτα</string>
+    <string name="name">Όνομα</string>
+    <string name="nameLabel">"Όνομα: "</string>
+    <string name="order">Παραγγελία</string>
+    <string name="order_summary">Σύνοψη Παραγγελίας</string>
+    <string name="price">Τιμή</string>
+    <string name="quantity">Ποσότητα</string>
+    <string name="quantityLabel">"Ποσότητα: "</string>
+    <string name="thankYou">Ευχαριστούμε Πολύ!</string>
+    <string name="toppings">Επικαλύψεις</string>
+    <string name="totalLabel">\"Σύνολο: € \"</string>
+    <string name="whipped_cream">Σαντιγύ</string>
+    <string name="_1_extra">(1€ επιπλέον)</string>
+    <string name="_2_extra">(2€ επιπλέον)</string>
+</resources>
